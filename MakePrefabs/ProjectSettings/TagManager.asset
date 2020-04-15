@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Friend
+  - Builder
+  - Block
+  - RevertEnemy
+  - Tower
+  - Weapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Enemy
+  - 
+  - Friend
+  - Block
+  - 
+  - Platform
+  - 
+  - 
+  - Grass
+  - Road
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 4009408965
+    locked: 0
+  - name: Environment
+    uniqueID: 1468523257
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 78077687
+    locked: 0
+  - name: Friend
+    uniqueID: 310304247
+    locked: 0
+  - name: Tower
+    uniqueID: 206749957
+    locked: 0
+  - name: Block
+    uniqueID: 2265202637
+    locked: 0
+  - name: Weapon
+    uniqueID: 283186701
+    locked: 0
